@@ -7,7 +7,7 @@ I can be reached here:
 [![Linkedin Badge](https://img.shields.io/badge/-travistn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travistn/)](https://www.linkedin.com/in/travistn/)
 [![Gmail Badge](https://img.shields.io/badge/-travisn714@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travisn714@gmail.com)](mailto:travisn714@gmail.com)
 
-### ⚡ Skills:                                                                                                       
+## ⚡ Skills:                                                                                                       
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
