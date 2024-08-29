@@ -1,8 +1,6 @@
 # Hello I'm Travis! 👋
 
-I'm a software developer with a passion for front-end development but not afraid to tackle the back-end. I enjoy exploring new technologies, tackling challenging problems, and eager to constantly learn. Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to connect or collaborate! Let’s build something amazing together!
-
-I can be reached here:
+I'm a software developer with a passion for front-end development but not afraid to tackle the back-end. I enjoy exploring new technologies, tackling challenging problems, and eager to constantly learn. Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-travistn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travistn/)](https://www.linkedin.com/in/travistn/)
 [![Gmail Badge](https://img.shields.io/badge/-travisn714@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travisn714@gmail.com)](mailto:travisn714@gmail.com)
