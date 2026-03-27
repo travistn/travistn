@@ -1,28 +1,59 @@
 # Hello I'm Travis! 👋
 
-I'm a software developer with a passion for front-end development but not afraid to tackle the back-end. I enjoy exploring new technologies, tackling challenging problems, and eager to constantly learn. Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to connect!
+I build modern full-stack web applications with a focus on clean UI, real-world functionality, and scalable architecture.
+
+Currently focused on:
+- Building production-ready apps with Next.js + Spring Boot
+- Designing intuitive, mobile-first user interfaces
+- Improving state management and backend integrations
 
 [![Linkedin Badge](https://img.shields.io/badge/-travistn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travistn/)](https://www.linkedin.com/in/travistn/)
 [![Gmail Badge](https://img.shields.io/badge/-travisn714@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travisn714@gmail.com)](mailto:travisn714@gmail.com)
 
-## ⚡ Skills:                                                                                                       
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<br/>
 
+## 🎯 About Me
+
+- Transitioned from marketing → software engineering
+- Strong focus on building real-world, usable applications
+- Comfortable working across frontend and backend
+- Always learning and iterating on my projects
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 💳 Nguyen Pacific Bank
+Full-stack banking application that simulates real-world financial workflows including authentication, transactions, and account management.
+
+-  JWT authentication & secure APIs
+-  Transfers, deposits, withdrawals
+-  Transaction history + filtering
+-  Spring Boot + Next.js + PostgreSQL
+-  RESTful API design with secure user-based data access
+
+🔗 Backend: https://github.com/travistn/nguyen-pacific-bank-api  
+🔗 Frontend: https://github.com/travistn/nguyen-pacific-bank-frontend
+
+<br/>
+
+## 👨‍💻 Currently Working On
+
+- Building a medical notes application to streamline patient documentation
+- Designing a structured input system for accurate and efficient note-taking
+
+<br/>
+
+## ⚡ Tech Stack
+
+**Frontend**
+- React, Next.js, TypeScript, Tailwind CSS
+
+**Backend**
+- Java, Spring Boot
+
+**Database**
+- PostgreSQL, MongoDB
+
+**Tools**
+- Git, Docker
