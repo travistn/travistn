@@ -45,15 +45,12 @@ Full-stack banking application that simulates real-world financial workflows inc
 <br/>
 
 ## ⚡ Tech Stack
+- **Languages**: Java, JavaScript, TypeScript, Python, SQL  
 
-**Frontend**
-- React, Next.js, TypeScript, Tailwind CSS
+- **Frontend**: React, Next.js, Tailwind CSS
 
-**Backend**
-- Java, Spring Boot
+- **Backend**: Spring Boot, Node.js, REST APIs 
 
-**Database**
-- PostgreSQL, MongoDB
+- **Database**: PostgreSQL, MongoDB, MySQL  
 
-**Tools**
-- Git, Docker
+- **Tools**: AWS, Git, Docker, Postman  
