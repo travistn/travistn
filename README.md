@@ -3,9 +3,9 @@
 I build modern full-stack web applications with a focus on clean UI, real-world functionality, and scalable architecture.
 
 Currently focused on:
-- Building production-ready apps with Next.js + Spring Boot
-- Designing intuitive, mobile-first user interfaces
-- Improving state management and backend integrations
+- Building production-ready apps with Next.js + Spring Boot  
+- Designing intuitive, mobile-first user interfaces  
+- Integrating AI into my development workflow to improve efficiency and automation  
 
 [![Linkedin Badge](https://img.shields.io/badge/-travistn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travistn/)](https://www.linkedin.com/in/travistn/)
 [![Gmail Badge](https://img.shields.io/badge/-travisn714@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travisn714@gmail.com)](mailto:travisn714@gmail.com)
